@@ -1,0 +1,7 @@
+/build/*
+/devel/*
+/visualisations/*
+/src/CMakeLists.txt
+*.code-workspace
+*.vscode
+*.catkin_workspace
